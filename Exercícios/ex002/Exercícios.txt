@@ -1,0 +1,22 @@
+Dentro da pasta Exercícos Criar:
+
+2. Pasta ex002:
+    Escreva um programa que receba uma placa e 
+    informe qual é o dia de rodízio no transito de SP 
+    (Considerando final 1 e 2 na segunda, 
+    3 e 4 na terça, 
+    5 e 6 na quarta, 
+    7 e 8 na quinta, 
+    9 e 0 na sexta)
+    Ex.: ABC1B34 Ler apenas o ultimo caracter no caso 4
+
+3. Pasta ex003:
+    Crie um programa que receba o mês em número e 
+    informe o nome dele e quantos dias ele tem, 
+    utilizando o Switch Case
+
+
+Para voltar uma pasta cd..
+Para entrar em uma pasta cd nome_pasta
+Para criar um projeto: dotnet new console
+Para executar, dentro da pasta: dotnet run
